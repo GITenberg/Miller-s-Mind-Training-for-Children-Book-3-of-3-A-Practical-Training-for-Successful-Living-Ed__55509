@@ -1,11 +1,16 @@
 _repo: Miller-s-Mind-Training-for-Children-Book-3-of-3-A-Practical-Training-for-Successful-Living-Ed__55509
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55509-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, William Emer
     gutenberg_agent_id: '48379'
     url: http://www.gutenberg.org/2009/agents/48379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55509#Miller-s-Mind-Training-for-Children-Book-3-of-3-A-Practical-Training-for-Successful-Living-Ed_
 gutenberg_issued: '2017-09-08'
 gutenberg_type: Text
 identifiers:
